@@ -2,9 +2,4 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code Retina" />
   </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
 </application>
