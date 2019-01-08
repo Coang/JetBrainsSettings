@@ -1,0 +1,205 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks>
+      <mark key="A" line="19" column="21" filename="D:/illideaProject/JavaLearn/src/com/coang/Main.java" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/BeanUtils.java" timestamp="1468200964699">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="21" />
+      </file>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/Main.java" timestamp="1468219789185">
+        <mark key="a" line="19" column="21" />
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="42" />
+        <mark key="m" line="19" column="21" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="33" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTest/terminal_server/src/main/resources/mappers/testcard/CardBorrowMapper.xml" timestamp="1545968980577">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/MD5.java" timestamp="1468219646322">
+        <mark key="[" line="7" column="17" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTest/terminal_server/src/main/java/com/gdcn/terminaltest/mapper/testcard/CardGroupMapper.java" timestamp="1545967578397">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTest/terminal_server/src/main/java/com/gdcn/terminaltest/mapper/testcard/CardBorrowMapper.java" timestamp="1545968564129">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" timestamp="1467600584372">
+        <mark key="p" line="11" column="0" />
+        <mark key="a" line="18" column="4" />
+        <mark key="b" line="18" column="4" />
+        <mark key="'" line="11" column="0" />
+        <mark key="i" line="11" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/Builder/Director.java" timestamp="1468202676340">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/Builder/MacbookBuilder.java" timestamp="1468205171004">
+        <mark key="i" line="22" column="0" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTest/terminal_server/src/main/java/com/gdcn/terminaltest/web/model/testcard/CardBorrowApply.java" timestamp="1545982743730">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTest/terminal-iview-admin/src/api/testcard/cardOptions.js" timestamp="1544598224924">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="D:/illideaProject/JavaLearn/src/com/coang/Builder/Builder.java" timestamp="1468202746748">
+        <mark key="[" line="9" column="42" />
+      </file>
+      <file name="D:/SouceCode/IdeaProject/terminaltest/src/main/resources/templates/sys/fun/list.html" timestamp="1508722480112">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTest/terminal_server/src/main/resources/mappers/testcard/CardGroupMapper.xml" timestamp="1545968379898">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTestSystem_base/src/com/gdcn/terminaltest/web/action/internal/FreeTestCardAction.java" timestamp="1545981753983" />
+      <file name="D:/SouceCode/IdeaProject/terminaltest/src/main/java/com/gdcn/terminaltest/web/model/SysRole.java" timestamp="1508723180758">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+      </file>
+      <file name="D:/SouceCode/CndatacomWorkspaces/TerminalTestSystem_base/WebRoot/internal/freeCard/cardstorage_list_ezui.jsp" timestamp="1509329485870">
+        <mark key="[" line="1181" column="96" />
+        <mark key="]" line="1182" column="97" />
+        <mark key="^" line="1182" column="97" />
+        <mark key="." line="1182" column="97" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="4" filename="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" />
+      <jump line="15" column="4" filename="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" />
+      <jump line="14" column="0" filename="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" />
+      <jump line="19" column="0" filename="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" />
+      <jump line="20" column="4" filename="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" />
+      <jump line="11" column="0" filename="D:/illideaProject/JavaLearn/src/com/coang/Singleton/SingletonManager.java" />
+      <jump line="13" column="0" filename="D:/illideaProject/JavaLearn/src/com/coang/Main.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>表</text>
+      </register>
+      <register name="/" type="4">
+        <text>public</text>
+      </register>
+      <register name="0" type="4">
+        <text>shabao123</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>dispatcher-servlet.xml</text>
+      </register>
+      <register name="5" type="4">
+        <text>耦</text>
+      </register>
+      <register name="6" type="4">
+        <text>合</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text />
+      </register>
+      <register name=":" type="4">
+        <text>1</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>public</last-search>
+      <last-offset />
+      <last-pattern>public</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>public</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>100</entry>
+        <entry>1</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

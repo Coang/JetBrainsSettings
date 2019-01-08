@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="RC" value="&lt;Col&gt;&#10;  $SELECTION$&#10;&lt;/Col&gt;" description="Surround with &lt;Col&gt;&lt;/Col&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

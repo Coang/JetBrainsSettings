@@ -1,0 +1,17 @@
+<keymap version="1" name="Coang" parent="$default">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
