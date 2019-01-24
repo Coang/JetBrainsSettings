@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TerminalApplication'</Description>
-          <Count>59</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1122</Count>
+          <Count>1132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -334,7 +334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>142</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CardAnalysisSq....main()'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'dev'</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'jwttest.main()'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TerminalApplication'</Description>
-          <Count>53</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dev'">
@@ -478,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm'">
@@ -534,7 +534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>177</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
