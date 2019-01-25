@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TerminalApplication'</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1210</Count>
+          <Count>1212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -334,7 +334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>179</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CardAnalysisSq....main()'">
