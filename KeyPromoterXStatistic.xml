@@ -17,6 +17,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cancel Query">
         <Item>
           <IdeaActionID>Console.TableResult.Cancel</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TerminalApplication'</Description>
-          <Count>91</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -70,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1271</Count>
+          <Count>1279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -422,7 +430,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'dev'</Description>
-          <Count>51</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'jwttest.main()'">
@@ -494,7 +502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm'">
