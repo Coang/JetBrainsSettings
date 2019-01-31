@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1384</Count>
+          <Count>1389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -230,7 +230,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>21</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -462,7 +462,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>59</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -559,6 +559,14 @@
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>72</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Highlight of All Occurrences">
+        <Item>
+          <IdeaActionID>QuickToggleEditorHighlight</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F3'</ShortCut>
+          <Description>Toggle Highlight of All Occurrences</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
