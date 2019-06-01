@@ -1,9 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="Class.java" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="Enum.java" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
-    </internal_templates>
+    <default_templates>
+      <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
   </component>
 </application>
