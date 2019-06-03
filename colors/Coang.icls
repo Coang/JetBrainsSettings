@@ -1,7 +1,22 @@
 <scheme name="Coang" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
