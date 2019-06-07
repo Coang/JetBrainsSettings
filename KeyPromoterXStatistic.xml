@@ -566,7 +566,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -710,7 +710,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
