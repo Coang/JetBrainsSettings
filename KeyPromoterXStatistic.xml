@@ -9,12 +9,28 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add key">
+        <Item>
+          <IdeaActionID>AddKeyAction</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Add key</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add to VCS">
         <Item>
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Browser History">
+        <Item>
+          <IdeaActionID>BrowserHistoryAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+E'</ShortCut>
+          <Description>Browser History</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -86,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>92</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TerminalApplication'">
@@ -118,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1602</Count>
+          <Count>1608</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -174,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -374,7 +390,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TerminalApplication'</Description>
-          <Count>152</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Tomcat9-8090'">
@@ -561,12 +577,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Scan keys">
+        <Item>
+          <IdeaActionID>ScanKeysAction</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Scan keys</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scan more keys">
+        <Item>
+          <IdeaActionID>ScanMoreAction</IdeaActionID>
+          <ShortCut>'Alt+Down'</ShortCut>
+          <Description>Scan more keys</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -614,7 +646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TerminalApplication'</Description>
-          <Count>108</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat9-8090'">
@@ -630,7 +662,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm'">
