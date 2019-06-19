@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TerminalApplication'</Description>
-          <Count>144</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat9-8090'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TerminalApplication'</Description>
-          <Count>195</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Tomcat9-8090'">
