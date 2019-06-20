@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1691</Count>
+          <Count>1693</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -230,7 +230,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>293</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -390,7 +390,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -406,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'TerminalApplication'</Description>
-          <Count>198</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Tomcat9-8090'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>462</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -479,6 +479,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'CardAnalysisSq....main()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FormatTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'FormatTest.main()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FormateTest.main()'">
@@ -558,7 +566,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'dev'</Description>
-          <Count>217</Count>
+          <Count>218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'jwttest.main()'">
@@ -622,7 +630,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -662,7 +670,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>616</Count>
+          <Count>636</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TerminalApplication'">
@@ -750,7 +758,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>352</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
