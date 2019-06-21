@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TerminalApplication'</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat9-8090'">
@@ -774,7 +774,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
