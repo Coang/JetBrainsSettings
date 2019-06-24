@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1729</Count>
+          <Count>1730</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TerminalApplication'</Description>
-          <Count>126</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat9-8090'">
@@ -702,7 +702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm'">
