@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TerminalApplication'</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat9-8090'">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1844</Count>
+          <Count>1845</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -574,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'build'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'dev'">
@@ -582,7 +582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'dev'</Description>
-          <Count>234</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'jwttest.main()'">
@@ -694,7 +694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TerminalApplication'</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat9-8090'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm'">
