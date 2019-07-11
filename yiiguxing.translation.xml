@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authentication" />
       <item value="inherited" />
       <item value="Indicates" />
       <item value="Canonical names should be kebab-case ('-' separated), lowercase alpha-numeric characters and must start with a letter" />
