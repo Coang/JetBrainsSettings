@@ -1,7 +1,10 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Fira Code Retina" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="MAX_LOOKUP_WIDTH2" value="691" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="smoothScrolling" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
