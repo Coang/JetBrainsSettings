@@ -497,6 +497,14 @@
           <Count>123</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CalendarUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'CalendarUtil.main()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CardAnalysisSq....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
