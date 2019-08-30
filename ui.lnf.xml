@@ -7,6 +7,7 @@
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="691" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="smoothScrolling" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>

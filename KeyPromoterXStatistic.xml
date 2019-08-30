@@ -710,7 +710,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>99</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
