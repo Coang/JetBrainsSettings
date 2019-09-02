@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TerminalApplication'</Description>
-          <Count>206</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat9-8090'">
@@ -790,7 +790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>211</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm'">
