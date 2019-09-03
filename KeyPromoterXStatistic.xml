@@ -238,7 +238,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>605</Count>
+          <Count>606</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -862,7 +862,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>681</Count>
+          <Count>682</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
