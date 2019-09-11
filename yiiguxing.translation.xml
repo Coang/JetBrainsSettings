@@ -21,5 +21,6 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
   </component>
 </application>
