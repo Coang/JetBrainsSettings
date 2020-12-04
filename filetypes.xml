@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="lic" type="Native" />
       <mapping pattern="201211版规范导入-涉及数据表结构" type="PLAIN_TEXT" />
       <mapping ext="propertises" type="PLAIN_TEXT" />
       <mapping pattern="CardGroupMapMapper" type="yarn.lock" />
